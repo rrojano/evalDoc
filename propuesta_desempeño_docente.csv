@@ -1,44 +1,22 @@
-P,r1,r2,r3,r4,r5,r6,r7,r8,r9,r10,r11,r12,r13
-01. Â¿SeÃ±ala honestamente el grado de tu participaciÃ³n en el desarrollo de la Experiencia Educativa (EE)? *<b>Tu respuesta serÃ¡ verificada con AdministraciÃ³n Escolar</b>,100% y 80%,79% y 60%,59% y 50%,menos del 50%,,,,,,,,,
-02. Eliminar,,,,,,,,,,,,,
-03. Eliminar,,,,,,,,,,,,,
-04. Â¿Me siento satisfecho con lo aprendido con respecto al programa de estudio? (dimensiÃ³n evaluar al profesor),Muy satisfecho,satisfecho,insatisfecho,muy insatisfecho,,,,,,,,,
-05. Eliminar,,,,,,,,,,,,,
-06. Eliminar,,,,,,,,,,,,,
-"06-a1. Â¿La/El docente presentÃ³ un cronograma, calendario o planeaciÃ³n del curso?",si,no,no recuerdo,,,,,,,,,,
-"07. Â¿CuÃ¡ntos materiales o recursos de apoyo empleÃ³ el docente (videos, manuales, bibliotecas, software, leyes, artÃ­culos)?",1,2,3,mÃ¡s de 3,,,,,,,,,
-08. Eliminar,,,,,,,,,,,,,
-09. Â¿La/El docente demostrÃ³ dominio (sabe del tema) sobre el contenido teÃ³rico de la EE?,siempre,generalmente,pocas veces,nunca,,,,,,,,,
-10. Eliminar,,,,,,,,,,,,,
-10-a1. Â¿La/El docente permitiÃ³ tu participaciÃ³n en clase?,siempre,generalmente,pocas veces,nunca,,,,,,,,,
-11. Eliminar,,,,,,,,,,,,,
-12. Eliminar,,,,,,,,,,,,,
-12-a1. Â¿La/El docente relacionÃ³ tu formaciÃ³n con otras disciplinas o Ã¡reas de conocimiento?,siempre,generalmente,pocas veces,nunca,,,,,,,,,
-13. Eliminar,,,,,,,,,,,,,
-14. Â¿La/El docente explica de manera clara y de fÃ¡cil comprensiÃ³n los procedimientos para la soluciÃ³n de probelmas contemplados en la EE?,siempre,generalmente,pocas veces,nunca,,,,,,,,,
-15. Â¿La/El docente resuelve las dudas sobre la EE de forma clara y coherente?,siempre,generalmente,pocas veces,nunca,,,,,,,,,
-16. Â¿QuÃ© variedad de evidencias de aprendizaje empleÃ³ la/el docente?,1,2,3,mÃ¡s de 3,,,,,,,,,
-"17. Â¿La/El docente expresÃ³ la relaciÃ³n de la EE con relaciÃ³n a?
-a) la vida diaria y el diÃ¡logo
-b) la salud, la inclusiÃ³n y el gÃ©nero
-c) el aprendizaje de por vida y los idiomas
-d) el medio ambiente y la sustentabilidad
-e) el emprendimiento y liderazgo",1,2,3,mÃ¡s de 3,,,,,,,,,
-18. Â¿Con quÃ© frecuencia la/el docente te dio retroalimentaciÃ³n sobre tu aprendizaje?,sin cambio,,,,,,,,,,,,
-19. Â¿En que medida se cubrieron los temas del programa de la EE?,100%,80%,50%,menos del 50%,,,,,,,,,
-20. Â¿En que medida consideras que los conocimientos presentados fueron pertinentes y actuales?,Mucho,poco,nada,no tengo idea,,,,,,,,,
-21-a) Â¿Cuentas con equipo de cÃ³mputo para la EE? (Eliminar),si,no,,,,,,,,,,,
-21-b) Â¿Cuentas con internet? (Eliminar),si,no,,,,,,,,,,,
-21-c) Â¿La/El Docente ofrecio alguna alternativa para atender a la EE ya sea sÃ­ncrona o asÃ­ncrona?,si,no,,,,,,,,,,,
-22. Â¿La/El docente te apoyo durante la EE en caso de enfermedad/fallecimiento familiar/despido?,si,no,no fue necesario,,,,,,,,,,
-23. Eliminar,,,,,,,,,,,,,
-"24. Â¿La/El docente promovio durante la EE? (softskills)
-a) tu autonomÃ­a
-b) tu autoreflexiÃ³n
-c) tu autoaprendizaje
-d) tu colaboraciÃ³n
-e) tu liderazgo",1,2,3,mÃ¡s de 3,,,,,,,,,
-25. Â¿QuÃ© tan significativa fue la formaciÃ³n acadÃ©mica que recibiste en esta EE?,sumamente significativa,Significativa,poco significativa,nada significativa,,,,,,,,,
-26. Te gustarÃ­a tomar otra EE con la/el docente que impartiÃ³ la clase?,si,no,,,,,,,,,,,
-27. Â¿QuÃ© cambios le sugerirÃ­as al docente para mejorar su funciÃ³n?,a,b,c,d,e,f,g,h,i,j,,,
-28. AlgÃºn comentario para el docente,,,,,,,,,,,,,
+,,,,,r5,r6,r7,r8,r9,r10,r11,r12,r13
+"1.       ¿Dio a conocer los elementos mínimos unidad de competencia, saberes, forma de evaluación, entre otros) del programa de la Experiencia Educativa EE)? <b>No aplica para EE  de modalidad exclusivamente virtual </b>",Si    ,   No    , ,,,,,,,,,,
+2.       ¿Las actividades de la EE se llevaron a cabo de acuerdo con un plan y/o programación de trabajo? ,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+3.       En caso de haber sido necesario ¿Adaptó el plan y/o programación de las actividades de la EE con base en las circunstancias presentadas durante el periodo?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+4.       ¿Utilizó estrategias de enseñanza que contribuyeron a tus aprendizajes?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+"5.       ¿Los recursos tecnológicos Cañón, pizarra electrónica, plataformas digitales, EMINUS, entre otros) empleados por el docente contribuyeron a tus aprendizajes?",Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+"6.       ¿Los materiales Artículos, periódicos, revistas, libros impresos y/o digitales, software, entre otros) empleados por el docente contribuyeron a tus aprendizajes?",Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+7.       ¿Mostró dominio de los temas abordados en la EE? ,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+8.       ¿Relacionó los temas con problemas de la realidad y/o problemas específicos de tu profesión? ,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+9.       ¿Fomentó un ambiente favorable interacción) para la aportación de ideas y planteamiento de dudas?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+10.   ¿Estableció reglas mínimas de comunicación para la interacción entre todos los integrantes del curso?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+11.   ¿Fomentó el diálogo efectivo entre todos los integrantes del curso?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+12.   ¿Brindó retroalimentación oportuna a las actividades solicitadas en el curso?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+13.   ¿La retroalimentación recibida contribuyó a mejorar tu aprendizaje?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+"14.   Desde el contexto de tu disciplina ¿Utilizó diferentes evidencias de desempeño para evaluar tus aprendizajes exámenes, ensayos, proyectos, maquetas, modelos y/o prototipos, prácticas, exposiciones, solución de problemas y/o casos, entre otros)?",Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+15.   ¿Las evidencias de desempeño solicitadas te permitieron demostrar los aprendizajes adquiridos? ,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+17.   ¿Las actividades realizadas en el curso fueron congruentes con la unidad de competencia propósito) de la EE?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+19.   Con base en los aprendizajes adquiridos en la EE ¿Qué tan satisfecho te sientes con el trabajo desarrollado por el docente? ¿Por qué?,Siempre   , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+"20.   En una escala del 1 al 10, donde uno es el mínimo y diez el máximo, ¿Cómo evalúas al profesor? ¿Por qué?",Satisfecho  , Generalmente  , Pocas veces  ,  Nunca  ,,,,,,,,,
+21.   ¿Qué tanto te involucraste asistencia y participación) en tu proceso formativo en esta experiencia educativa?,Mucho   , Poco  ,  Nada  ,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
