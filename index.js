@@ -22,7 +22,7 @@ function generateExam(data) {
                 $.each(row, function (indexC, colData) {
                     console.log(colData)
                     if (indexC == 0)
-                        html += '<div class="card-header bg-info text-white">' + colData + '</div> <div class="card-body"> '
+                        html += '<div class="card-header bg-dark text-white">' + colData + '</div> <div class="card-body"> '
                     else {
                         if (colData != '')
                             html += '<div class="form-check form-check-inline"> <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault'+indexP+indexC+'">'
